@@ -16,4 +16,4 @@ o	Performed Bleurt and ROUGE tests to validate our analysis that Extractive summ
 7. Following which you'll encounter the summarized news by the two varients of the Summarizers.
 8. You can look at the ROUGE scores that follow the above step.
 9. You can use this notebook to analyze the different types and models that are best suited for the process of news summarization.
-10. Incase the content helped you explore/ learn something new; Do give it a star in GutHub.
+10. Incase the content helped you explore/ learn something new; Do give it a star in GitHub.
